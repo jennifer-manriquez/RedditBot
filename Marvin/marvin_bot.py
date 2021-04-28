@@ -6,9 +6,9 @@ import random
 # Quotes taken from: http://www.imdb.com/character/ch0007553/quotes
 marvin_quotes = \
 [
-" I've calculated your chance of survival, but I don't think you'll like it. ",
+" I've calculated your odds of survival, but I don't think you'll like it. ",
 " Do you want me to sit in a corner and rust or just fall apart where I'm standing?",
-"Here I am, brain the size of a planet, and they tell me to take you up to the bridge. Call that job satisfaction? Cause I don't. ",
+"Here I am, brain the size of a world, and they tell me to take you up to the bridge. Call that job satisfaction? Cause I don't. ",
 "Here I am, brain the size of a planet, and they ask me to pick up a piece of paper. ",
 " It gives me a headache just trying to think down to your level. ",
 " You think you've got problems. What are you supposed to do if you are a manically depressed robot? No, don't even bother answering. I'm 50,000 times more intelligent than you and even I don't know the answer.",
