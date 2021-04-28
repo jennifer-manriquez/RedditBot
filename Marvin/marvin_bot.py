@@ -6,7 +6,7 @@ import random
 # Quotes taken from: http://www.imdb.com/character/ch0007553/quotes
 marvin_quotes = \
 ["This is my first change in git"
-" I've calculated your chance of survival, but I don't think you'll like it. ",
+" I've calculated your odds of survival, but I don't think you'll like it. ",
 " Do you want me to sit in a corner and rust or just fall apart where I'm standing?",
 "Here I am, brain the size of a planet, and they tell me to take you up to the bridge. Call that job satisfaction? Cause I don't. ",
 "Here I am, brain the size of a planet, and they ask me to pick up a piece of paper. ",
